@@ -2,7 +2,7 @@
 
 阿里云日志服务是针对日志类数据的一站式服务，您只需要将精力集中在日志分析上，过程中数据采集、对接各种存储计算、数据索引和查询等其他工作都可以通过配置日志服务来自动完成。2017年9月日志服务升级日志实时分析功能（LogSearch/Analytics），可以使用查询+SQL92语法对日志进行实时分析。
 
-在结果分析可视化上，除了使用自带Dashboard外，还支持DataV、Grafana、Tableua、QuickBI等对接方式。本文主要通过Grafana示例演示如何通过日志服务对Nginx日志进行分析与可视化。
+在结果分析可视化上，除了使用自带Dashboard外，还支持DataV、Grafana、Tableau、QuickBI等对接方式。本文主要通过Grafana示例演示如何通过日志服务对Nginx日志进行分析与可视化。
 
 ## 流程架构 {#section_oxj_c1q_12b .section}
 
